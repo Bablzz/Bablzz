@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello everyone!👋
+![](https://komarev.com/ghpvc/?username=Bablzz&color=green)
+
+I've been working as a software engineer since 2012. Currently I am living in Saint-Petersburg, Russia.
+I am enjoing DevOps process, problems solving. I have experience in public speaking; have _ISTQB FL_ certificate.
+
+Tools: Go, Bash, Yaml😄
+
+💬 Ask me about testing proccess, CI/CD (ansible, gitlab, teamcity, github action)
+
+📫 My [Linkedin](https://www.linkedin.com/in/maxim-sokolnikov/). Feel free to connect with me.
 
 <!--
 **Bablzz/Bablzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
